@@ -1,7 +1,7 @@
 # PhD Thesis in Theoretical Biophysics
 
 Welcome to the repository supporting my PhD thesis in Theoretical Biophysics. This repository is organized into various folders containing Jupyter Notebooks 
-that illustrate key Statistical Physics concepts and Biology Physics models discussed in my thesis, a few basic methods of Bioimage Analysis and Statistical Methods often used in biology. 
+that illustrate key concepts of Biology Physics discussed in my thesis, a few basic methods of Bioimage Analysis, Statistical Methods often used in biology and a short revision os Statistical Physics Basics. 
 Below is an overview of the structure and content of the repository.
 
 
@@ -16,7 +16,7 @@ Below is an overview of the structure and content of the repository.
   - `french_flag_model.ipynb`
   - `turing_patterns.ipynb`
     
-- `theoretical_physics/`
+- `statistical_physics_basics/`
   - `statistical_physics.ipynb` (Example on the Ising model or Boltzmann distribution)
   - `nonlinear_dynamics.ipynb` (Chaos theory and logistic map)
   - `brownian_motion.ipynb` (Simulation of Brownian motion and its properties)
