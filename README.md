@@ -9,7 +9,7 @@ Below is an overview of the structure and content of the repository.
 
 - `diffusion_equation/`
   - `1_solving_diffusion_equation.ipynb` This notebook demonstrates the analytical and numerical solutions of the simplest case of the diffusion equation in a 1D system.
-  - `2_diffusion_degradation_production.ipynb` Here, constant production and degradation are added to the diffusion dynamics — numerically simulated dynamics relax to a steady state.
+  - `2_diffusion_degradation_production.ipynb` Here, constant production and degradation are added to the diffusion dynamics - numerically simulated dynamics relax to a steady state.
   - `3_boundary_conditions.ipynb` Reflecting and absorbing boundaries influence diffusion dynamics and can be implemented both numerically and analytically. 
     
 - `pattern_formation_examples/`
