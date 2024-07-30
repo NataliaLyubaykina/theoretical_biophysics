@@ -7,11 +7,10 @@ Below is an overview of the structure and content of the repository.
 
 ## Repository Structure
 
-- `diffusion_models/`
-  - `diffusion_1d.ipynb`
-  - `diffusion_growing_domain.ipynb`
-  - `reaction_diffusion.ipynb` (maybe)
-  - `anomalous_diffusion.ipynb` (maybe)
+- `diffusion_equation/`
+  - `1_solving_diffusion_equation.ipynb` This notebook demonstrates the analytical and numerical solutions of the simplest case of the diffusion equation in a 1D system.
+  - `2_diffusion_degradation_production.ipynb` Here, constant production and degradation are added to the diffusion dynamics.
+  - `3_boundary_conditions.ipynb` Here, reflecting and absorbing boundaries are added.
     
 - `pattern_formation_examples/`
   - `french_flag_model.ipynb`
